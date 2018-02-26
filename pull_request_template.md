@@ -1,8 +1,12 @@
-#Descripción
+
+# Es un cambio importante?
+- [ ] Sí
+- [ ] No
+
+# Descripción
 
 ## ¿Qué ha cambiado?
-- [ ] Diseño de la página(fronted)
-- [ ] backend
-- [ ] serverConfig
+- [ ] estetica de la página
+- [ ] código JS
+- [ ] Correción de un error
 
-#¿cómo podria yo probar los nuevos cambios?
